@@ -1,0 +1,1 @@
+The sole purpose of building this game was for me to learn how to implement AI into a game and learn about NeuroEvolution of Augmenting Topologies (NEAT). I wanted to see how a AI technology could teach itself how to play and beat a game :)
